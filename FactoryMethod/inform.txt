@@ -1,0 +1,33 @@
+﻿1. Factory Method Pattern 정의
+
+   -객체를 생성하기 위한 인터페이스를 정의하는데, 어떤 클래스의 인스턴스를 만들지는 서브클래스에서 결정
+
+    팩토리 메소드 패턴을 이용하면 클래스의 인스턴스를 만드는 일을 서브클래스에게 맡기게 된다.
+
+    ( Define an interface for creating an object, but let subclasses decide which class to instantiate. 
+
+      Factory Method lets a class defer instantiation to subclasses.  )
+
+
+
+  -팩토리 메소드 패턴을 사용하는데에는 몇가지 이유가 있지만, 결론적으로 인터페이스를 가지는 클래스를 생성하는 것입니다.
+
+   즉, 동일한 인터페이스를 준수하는 클래스들을 생성을 합니다. 
+
+   
+2. 사용목적 및 용도, 장점
+
+ -객체의 생성을 한군데에서 관리를 할수가 있다. (ConcreteCreator 부분에서만 생성코드를 넣는다. )
+
+ -동일한 인터페이스 구현으로 새로운 객체가 추가되더라도 소스의 수정의 거의 없다. ( 생성 부분의 수정과 신규 클래스의 추가 정도 )
+
+ -객체를 여러군데에서 생성을 각자하면 동일한 생성을 보장 못하지만, 한군데에서 관리하게 되면 동일한 생성을 보장한다.
+
+
+
+출처: http://hongjinhyeon.tistory.com/42?category=243922 [생각대로 살지 않으면 사는대로 생각한다.]
+
+출처: http://hongjinhyeon.tistory.com/42?category=243922 [생각대로 살지 않으면 사는대로 생각한다.]
+
+
+출처: http://hongjinhyeon.tistory.com/42?category=243922 [생각대로 살지 않으면 사는대로 생각한다.]

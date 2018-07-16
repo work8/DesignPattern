@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern
 {
-    class Program
+    class MainApp
     {
         static void Main(string[] args)
         {
