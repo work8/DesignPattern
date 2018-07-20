@@ -1,0 +1,25 @@
+﻿1. Abstract Factory Pattern 정의
+
+ - 구체적인 클래스를 명시하지 않고도 연관되어 있거나 의존적인 객체 패밀리 생성을 위한 인터페이스 제공.
+
+   (Provide an interface for creating families of related or dependent objects without specifying their concrete classes.)
+
+ 
+
+ - 예를 들어서,  곰 세마리 가족(아빠,엄마,아기) 에 대한 대화형 어플리케이션을 개발한다고 했을때에 그 어플리케이션에서
+
+   두가지 종류의 곰(골든베어가족과 브라운베어가족)을 사용자가 선택해서 이야기를 진행하는 기능이 있다면 사용자의 선택
+
+   에 따라서 자동으로 하나의 종류의 아빠 엄마 아기가 생성되어야 한다. 그때 골든베어를 선택하면 자동으로  GoldenDadBear,
+
+   GoldenMomBear, GoldenBabyBear 를 생성해주고 반대로 브라운을 선택하면 BrownDadBear, BrownMomBear, BrownBabyBear 
+
+   을 생성해주어야 한다. 
+
+
+
+- 즉, 비슷한 기능을 하지만 종류가 다른 클래스들을 생성하는 인터페이스 제공한다.
+
+
+
+출처: http://hongjinhyeon.tistory.com/43?category=243922 [생각대로 살지 않으면 사는대로 생각한다.]

@@ -1,0 +1,36 @@
+
+2014년
+
+ORACLE 교육 수강
+
+2015년
+
+'AM GLOBAL DAEMON 상태확인 프로그램 개발 ,
+GLOBAL SYNC 요청 툴 생성 및 제공
+AM COPY TOOL 개발 지원 (AM 프로젝트간 모델, 도면이 복사가능하도록 하는 프로그램으로서
+AVEVA와 연계하여 제대로된 프로그램이 개발될수있도록 의견조율및 방향 제시)
+SendMessageinLync 프로그램 개발(AM 문제 발생시, 해당 호선에 접속중인 사용자에게 해당 메일 및 메신저 보낼수 있는 프로그램)
+호선 lock 이상유무 체크 확인 프로그램 개발
+
+
+
+
+2016년
+통합 cad monitoring tool 개발(자체 과제)
+cad 통합 license monitoring tool 개발
+(기존의  license 툴과는 다른  다르게 호선별 사용자 추이등을 확인할수있어 불필요한 license 시수를 줄이는대 기여)
+AM project copy tool 유지 보수 
+
+AVEVA PDMS/Marine PML Basic & Advanced 교육 수료
+(4월 18일 ~ 4월 22일)
+
+2017년
+
+빅데이터 분석 실무 활용 중급 집체교육 수료 
+(주관: 한국기술교육대학교)
+빅데이터 분석 실무 초급 온라인 과정 수료
+(주관 : 한국기술교육대학교)
+
+2018년
+
+ORACLE BIGDATA APPLICANCE

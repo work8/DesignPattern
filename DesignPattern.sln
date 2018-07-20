@@ -9,6 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{4B176FD3-907E-4379-A74A-14380158E6E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{B917876F-15BE-4693-896C-D770150ED54A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DF481688-703E-403A-93E0-96AB748DB816}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +34,10 @@ Global
 		{4B176FD3-907E-4379-A74A-14380158E6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B176FD3-907E-4379-A74A-14380158E6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B176FD3-907E-4379-A74A-14380158E6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B917876F-15BE-4693-896C-D770150ED54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B917876F-15BE-4693-896C-D770150ED54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B917876F-15BE-4693-896C-D770150ED54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B917876F-15BE-4693-896C-D770150ED54A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

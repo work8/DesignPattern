@@ -21,6 +21,8 @@ namespace FactoryMethod
                 Product product = creator.FactoryMethod();
                 Console.WriteLine("Created {0}", product.GetType().Name);
             }
+
+
         }
     }
 
